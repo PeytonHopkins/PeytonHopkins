@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PeytonHopkins
+- 👀 I’m interested in learning!
+- 🌱 I’m currently learning object oriented programming in C#, HTML, CSS
+- 📫 How to reach me : Peytonlhopkins@gmail.com
